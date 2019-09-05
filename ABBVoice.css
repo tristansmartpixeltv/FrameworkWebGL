@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'abbvoicelight';
-         url('abbvoice_lt-webfont.woff') format('woff');
+     src: url('abbvoice_lt-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
